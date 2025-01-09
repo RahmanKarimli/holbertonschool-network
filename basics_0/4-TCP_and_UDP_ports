@@ -1,1 +1,2 @@
-sudo netstat -tunlp
+#!/usr/bin/env bash
+netstat -lp
